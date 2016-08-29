@@ -1,0 +1,6 @@
+.slideFromLeft {
+  left: 0%;
+}
+.transition {
+  transition: left 0.8s;
+}
